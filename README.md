@@ -1,5 +1,3 @@
-# deep-learning-resources
-
-### Project-page
-
-[--> Look at the project page for details](https://deep-learning-resources-myself3384444-bad1b31bd5fc2d9baae8352a4.gitlab.io/)
+version https://git-lfs.github.com/spec/v1
+oid sha256:952562b4f02c76ef0b60f25836ebc03a518d36996686d5c8e62cd6b8ecba6032
+size 171

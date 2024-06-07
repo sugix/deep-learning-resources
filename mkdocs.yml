@@ -1,5 +1,3 @@
-site_name: DL Specialization Notes
-site_dir: public
-theme: lux
-plugins:
-    - mkdocs-jupyter
+version https://git-lfs.github.com/spec/v1
+oid sha256:07cee8699198e698f6ac59ecc2f91c767a86941116e86b24c3ab5dfaffdc843f
+size 92
